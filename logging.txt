@@ -1,0 +1,220 @@
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -38.383494,
+        "lng": 33.427362
+    },
+    "accuracy": 50,
+    "name": "Frontline house",
+    "phone_number": "(+91) 983 893 3937",
+    "address": "29, side layout, cohen 09",
+    "types": [
+        "1",
+        "2"
+    ],
+    "website": "www.google.com",
+    "language": "Tamil"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -38.383494,
+        "lng": 33.427362
+    },
+    "accuracy": 50,
+    "name": "Frontline house",
+    "phone_number": "(+91) 983 893 3937",
+    "address": "29, side layout, cohen 09",
+    "types": [
+        "1",
+        "2"
+    ],
+    "website": "www.google.com",
+    "language": "Tamil"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -38.383494,
+        "lng": 33.427362
+    },
+    "accuracy": 50,
+    "name": "Raja",
+    "phone_number": "7448785668",
+    "address": "ThalaivanKottai",
+    "types": [
+        "1",
+        "2"
+    ],
+    "website": "www.google.com",
+    "language": "Tamil"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -38.383494,
+        "lng": 33.427362
+    },
+    "accuracy": 50,
+    "name": "Raja",
+    "phone_number": "7448785668",
+    "address": "ThalaivanKottai",
+    "types": [
+        "1",
+        "2"
+    ],
+    "website": "www.google.com",
+    "language": "Tamil"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=569f9d0075cd75a08e14d77891494288
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=569f9d0075cd75a08e14d77891494288
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=569f9d0075cd75a08e14d77891494288
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=569f9d0075cd75a08e14d77891494288
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -38.383494,
+        "lng": 33.427362
+    },
+    "accuracy": 50,
+    "name": "Prabhu",
+    "phone_number": "9941201750",
+    "address": "kundrathur",
+    "types": [
+        "1",
+        "2"
+    ],
+    "website": "www.google.com",
+    "language": "Tamil"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -38.383494,
+        "lng": 33.427362
+    },
+    "accuracy": 50,
+    "name": "Prabhu",
+    "phone_number": "9941201750",
+    "address": "kundrathur",
+    "types": [
+        "1",
+        "2"
+    ],
+    "website": "www.google.com",
+    "language": "Tamil"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=3971128a7ef85bc44eabcc27df44c39b
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=3971128a7ef85bc44eabcc27df44c39b
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=3971128a7ef85bc44eabcc27df44c39b
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=3971128a7ef85bc44eabcc27df44c39b
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
