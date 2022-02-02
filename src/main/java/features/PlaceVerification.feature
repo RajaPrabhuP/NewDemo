@@ -25,4 +25,5 @@ Examples:
 #When User calls "DeletePlaceAPI" with "post" http request 
 #Then the API call success with status code "200"
 #And "status" in response body "OK"
+#Raja Prabhu
 
